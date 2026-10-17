@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Wenn Sie diese Transkriptionen verwenden, zitieren Sie sie bitte so. / If you use these transcriptions, please cite them as below."
+type: dataset
+title: "Niederdeutsche Bücher in Fraktur: diplomatische Transkriptionen"
+abstract: >-
+  Diplomatic transcriptions of books in Low German printed in Fraktur, re-OCRed
+  from the scans and checked by hand against them: Bernhard Topp, Ganne Nettels /
+  Otto Veihwann (Osterwieck 1884, Eastphalian), with a Typst setting.
+authors:
+  - name: "just-a-book-archivist"
+repository-code: "https://github.com/just-a-book-archivist/low-german-fraktur-books"
+license: CC-BY-SA-4.0
+keywords:
+  - Low German
+  - Niederdeutsch
+  - Plattdeutsch
+  - Eastphalian
+  - Fraktur
+  - diplomatic transcription
